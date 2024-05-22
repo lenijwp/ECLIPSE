@@ -1,0 +1,4 @@
+transformers==4.34.1
+openai==1.23.6
+tqdm==4.65.0
+numpy==1.24.1

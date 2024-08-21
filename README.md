@@ -1,6 +1,6 @@
 # ECLIPSE
 
-This repository is the official implementation of paper ``An Optimizable Suffix Is Worth A Thousand Templates: Efficient Black-box Jailbreaking without Affirmative Responses via LLM as Optimizer''
+This repository is the official implementation of paper ``Unlocking Adversarial Suffix Optimization Without Affirmative Phrases: Efficient Black-box Jailbreaking via LLM as Optimizer''
 
 ## Requirements
 
